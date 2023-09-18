@@ -1,5 +1,5 @@
-import { AiFillGithub, AiFillLinkedin, AiOutlineMenu } from 'react-icons/Ai';
-import { BsTelegram } from 'react-icons/Bs';
+import { AiFillGithub, AiFillLinkedin, AiOutlineMenu } from 'react-icons/ai';
+import { BsTelegram } from 'react-icons/bs';
 export default function NavBar() {
   return (
     <section>

@@ -1,6 +1,6 @@
-import { AiFillGithub, AiFillLinkedin, AiOutlineMenu } from 'react-icons/Ai';
-import { BsTelegram } from 'react-icons/Bs';
-import { HiOutlineMail } from 'react-icons/Hi';
+import { AiFillGithub, AiFillLinkedin, AiOutlineMenu } from 'react-icons/ai';
+import { BsTelegram } from 'react-icons/bs';
+import { HiOutlineMail } from 'react-icons/hi';
 export default function Gettouch() {
   return (
     <div className='right-contact flex justify-center'>

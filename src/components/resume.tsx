@@ -1,4 +1,4 @@
-import { HiOutlineMail } from 'react-icons/Hi';
+import { HiOutlineMail } from 'react-icons/hi';
 export default function Resume() {
   return (
     <section className=' mb-8 mt-3 flex flex-col items-center justify-center '>
