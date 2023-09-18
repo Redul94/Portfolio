@@ -1,6 +1,5 @@
 'use client';
 import Head from 'next/head';
-import * as React from 'react';
 import NavBar from '@/components/nav';
 import Typewrite from '@/components/typo';
 import Thyself from '@/components/myself';
