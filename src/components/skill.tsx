@@ -1,0 +1,82 @@
+import Image from 'next/image';
+export default function Skill() {
+  return (
+    <section>
+      <div className='flex flex-col items-center justify-center'>
+        <h2>Things I know</h2>
+        <div className='flex flex-row'>
+          <Image
+            src='/svg/html5-original.svg'
+            alt='Html'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/css3-original.svg'
+            alt='Css'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/javascript-original.svg'
+            alt='JavaScript'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/typescript-original.svg'
+            alt='TypeScript'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/python-original.svg'
+            alt='Python'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/react-original.svg'
+            alt='Python'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/c.png'
+            alt='C'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/c++.png'
+            alt='C++'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/flutter.svg'
+            alt='C'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+          <Image
+            src='/svg/kotlin_icon.svg.png'
+            alt='C'
+            width={60}
+            height={60}
+            className='m-2'
+          />
+        </div>
+      </div>
+    </section>
+  );
+}
