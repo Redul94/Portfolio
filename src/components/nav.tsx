@@ -5,7 +5,7 @@ export default function NavBar() {
     <section>
       <div className='flex  h-12 flex-row items-center justify-between bg-black shadow-md'>
         <div className='flex items-center'>
-          <h3 className=' align-middle m-5'>Redul Hossen</h3>
+          <h3 className=' m-5 align-middle'>Redul Hossen</h3>
         </div>
         <div className='mr-3 flex items-center'>
           <a href='https://github.com/redul94' className='mr-2 text-3xl'>
@@ -15,7 +15,7 @@ export default function NavBar() {
           <a href='#' className='mr-2 text-3xl'>
             <AiFillLinkedin />
           </a>
-          <a href='T.Me/redul94' className='mr-2 text-2xl'>
+          <a href='https://t.me/redul94' className='mr-2 text-2xl'>
             <BsTelegram />
           </a>
           <button className=' mr-2 text-2xl'>

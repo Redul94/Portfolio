@@ -1,14 +1,15 @@
 'use client';
 import Head from 'next/head';
-import NavBar from '@/components/nav';
-import Typewrite from '@/components/typo';
-import Thyself from '@/components/myself';
-import Resume from '@/components/resume';
-import Skill from '@/components/skill';
+
 import Contact from '@/components/contact';
 import Footer from '@/components/footer';
 import Gettouch from '@/components/gettouch';
 import MyProject from '@/components/myproject';
+import Thyself from '@/components/myself';
+import NavBar from '@/components/nav';
+import Resume from '@/components/resume';
+import Skill from '@/components/skill';
+import Typewrite from '@/components/typo';
 
 export default function HomePage() {
   return (

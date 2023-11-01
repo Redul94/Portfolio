@@ -5,7 +5,7 @@ export default function Footer() {
       <footer className=' bottom-2 bg-red-600 text-gray-700'>
         © {new Date().getFullYear()} By{' '}
         <UnderlineLink href='https://theodorusclarence.com?ref=tsnextstarter'>
-          Theodorus Clarence
+          redul
         </UnderlineLink>
       </footer>
     </section>
